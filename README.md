@@ -1,11 +1,52 @@
-- 👋 Hi, I’m @Niitiwit
-- 👀 I’m interested in Data Science, Data Engineer, Data Analyst
-- 🌱 I’m currently learning at Delhi Technological University
-- 💞️ I’m looking to collaborate on Research Paper based on Machine Learning, Deep Learning, Data Mining, Data Anaylst
-- 📫 How to reach me on E-mail: snk03050@gmail.com
--                   Linked-in : https://www.linkedin.com/in/nitiwit-kuldiloke-454454197/
+# Hey there, I'm  [Niitiwit](https://drive.google.com/drive/folders/1-HmcEEdsnxLHIv2ycChNwBuuJCJWfIwE?usp=sharing) <img src="[https://media.giphy.com/stickers/hi-HMUBjBWVbjiYU.gif](https://media.giphy.com/media/HMUBjBWVbjiYU/giphy.gif)" width="25px"> 
 
-<!---
-Niitiwit/Niitiwit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### I'm an undergraduate student at Delhi Technological University. I try to bring the vision of stunning digital experience into life. Back in my school days, entering into a new world of technology seized my interest hence I choose software engineering as my major for undergraduate study. As an amateur trying in leisure for photography and creating YouTube content took a change for novelty.
+
+<br />
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=Niitiwit.Niitiwit")
+
+## Coding Profiles:
+<a href="https://www.kaggle.com/nitiwitkuldiloke2023">
+  <img align="left" alt="Niitiwit's Leetcode" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/kaggle.svg" />
+</a>
+
+<br />
+<br />
+
+## Contact Me:
+<a href="https://www.facebook.com/alife.o.actuality">
+  <img align="left" alt="Niitiwit's Facebook" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/facebook.svg" />
+</a>
+<a href="https://www.instagram.com/k.nitiwit/">
+  <img align="left" alt="Niitiwit's Instagram" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/instagram.svg" />
+</a>
+<a href="https://www.linkedin.com/in/nitiwit-kuldiloke-454454197/">
+  <img align="left" alt="Niitiwit's LinkedIN" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/linkedin.svg" />
+</a>
+
+
+<br />
+
+<br />
+
+## Languages & Tools:
+
+
+<img align="left" alt="c" width="33px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/c-programming.svg" />
+<img align="left" alt="c++" width="33px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/c++.svg" />
+<img align="left" alt="html" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/java.svg" />
+<img align="left" alt="css" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/python.svg" />
+
+
+<br />
+<br />
+
+
+## GitHub Status:
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Niitiwit&show_icons=true&hide_border=true&bg_color=00000000&text_color=3498db&hide=issues" alt="Niitiwit" />
+  
+![](./assets/bottom_header.svg)
