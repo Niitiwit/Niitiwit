@@ -39,6 +39,7 @@
 <img align="left" alt="c++" width="33px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/c++.svg" />
 <img align="left" alt="html" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/java.svg" />
 <img align="left" alt="css" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/python.svg" />
+<img align="left" alt="css" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/r-programming-language-icon.svg" />
 
 
 <br />
