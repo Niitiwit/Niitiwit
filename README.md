@@ -4,7 +4,7 @@
 ### I'm student from Thailand and come oversea to study Computer Engineering in Delhi Technological Univeristy.I am trying to bring the solution to every question I could with the data-driven decision making. Inspired by the way artificial intelligence solving many requirements which human cannot accomphlish, it make me feeling ti be the change of the new coming tehcnology. Thus, the fundamental knowledge of Comuputer Engineering is required to accomphilsh the goal of mine. 
 
 " Be the change that you want to see in the world " 
-Mahatma Gandhi, once said.
+<br />Mahatma Gandhi, once said.
 
 <br />
 
