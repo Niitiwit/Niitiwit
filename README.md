@@ -1,7 +1,10 @@
 # Hey there, I'm  [Niitiwit](https://drive.google.com/drive/folders/1-HmcEEdsnxLHIv2ycChNwBuuJCJWfIwE?usp=sharing) <img src="[https://media.giphy.com/stickers/hi-HMUBjBWVbjiYU.gif](https://media.giphy.com/media/HMUBjBWVbjiYU/giphy.gif)" width="25px"> 
 
 
-### I'm an undergraduate student at Delhi Technological University. I try to bring the vision of stunning digital experience into life. Back in my school days, entering into a new world of technology seized my interest hence I choose software engineering as my major for undergraduate study. As an amateur trying in leisure for photography and creating YouTube content took a change for novelty.
+### I'm student from Thailand and come oversea to study Computer Engineering in Delhi Technological Univeristy.I am trying to bring the solution to every question I could with the data-driven decision making. Inspired by the way artificial intelligence solving many requirements which human cannot accomphlish, it make me feeling ti be the change of the new coming tehcnology. Thus, the fundamental knowledge of Comuputer Engineering is required to accomphilsh the goal of mine. 
+
+" Be the change that you want to see in the world " 
+Mahatma Gandhi, once said.
 
 <br />
 
