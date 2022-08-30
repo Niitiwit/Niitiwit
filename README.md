@@ -8,9 +8,11 @@
 
 - 🌱 I’m currently learning **Hadoop and Big Data Analysis**
 
-- 📫 How to reach me **snk03050@gmail.com**
+- 📫 How to reach me [**snk03050@gmail.com**](mailto:snk03050@gmail.com)
 
 - ⚡ Fun fact **People called me Poom**
+
+- 📝 Checkout my [**Resume**](https://drive.google.com/file/d/14KkbnTuOVYzaGc1mcD826whyh0fWmzyn/view?usp=sharing)
 
 <br />
 
