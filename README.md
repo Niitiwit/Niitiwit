@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **People called me Poom**
 
-- 📝 Checkout my [**Resume**](https://drive.google.com/file/d/14KkbnTuOVYzaGc1mcD826whyh0fWmzyn/view?usp=sharing)
+- 📝 Checkout my [**Resume**]([https://drive.google.com/file/d/14KkbnTuOVYzaGc1mcD826whyh0fWmzyn/view?usp=sharing](https://drive.google.com/drive/folders/1-HmcEEdsnxLHIv2ycChNwBuuJCJWfIwE?usp=sharing))
 
 <br />
 
