@@ -1,43 +1,132 @@
-<h1 align="center">Hi 👋, I'm Nitiwit Kukldiloke</h1>
-<h3 align="center">A passionate Machine Learning Engineer and Data Scientist</h3>
+# Hi, I'm Nitiwit "Poom" Kuldiloke 👋
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=niitiwit&label=Profile%20views&color=0e75b6&style=flat" alt="niitiwit" /> </p>
+### Data Scientist · Machine Learning Engineer · MLOps · Quantitative Finance
 
+I build **production-oriented machine learning systems** spanning model development, deployment, monitoring, retraining, data pipelines, and ML infrastructure.
 
-- 🔭 I’m currently working on **NLP, Computer Vision, Machine Learning and Data Analysis**
+My current work sits at the intersection of **Data Science, MLOps, ML Systems, and Financial Machine Learning** — with a particular interest in turning research-grade models into reliable systems that can operate in real production environments.
 
-- 🌱 I’m currently learning **Hadoop and Big Data Analysis**
+---
 
-- 📫 How to reach me [**nkuldiloke@gmail.com**](mailto:nkuldiloke@gmail.com)
+## 🚀 What I'm Working On
 
-- ⚡ Fun fact **People called me Poom**
+* 🔭 Building **end-to-end MLOps infrastructure** for model tracking, deployment, monitoring, drift detection, retraining, and model lifecycle governance
+* 🧠 Developing machine learning systems for **manufacturing, anomaly detection, diagnostics, and predictive modeling**
+* 📈 Researching **quantitative finance**, systematic trading, volatility modeling, risk modeling, and financial machine learning
+* ⚙️ Designing ML workflows that bridge **research → validation → deployment → monitoring → retraining**
+* 🤖 Exploring **AutoML and agentic AI** for making machine learning infrastructure more accessible to engineers and non-ML specialists
 
-- 📝 Checkout my [**Resume**](https://drive.google.com/drive/folders/1-HmcEEdsnxLHIv2ycChNwBuuJCJWfIwE?usp=sharing)
+---
 
-<br />
+## 🌱 Currently Learning
 
-## Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/nitiwit-kuldiloke-454454197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitiwit-kuldiloke-454454197" height="30" width="40" /></a>
-<a href="https://fb.com/alife.o.actuality" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alife.o.actuality" height="30" width="40" /></a>
-<a href="https://instagram.com/k.nitiwit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k.nitiwit" height="30" width="40" /></a>
-<a href="https://kaggle.com/nitiwitkuldiloke2023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nitiwitkuldiloke2023" height="30" width="40" /></a>
+* **Advanced Python & C++** for high-performance analytical and quantitative systems
+* **Machine Learning Systems & MLOps Architecture**
+* **Quantitative Finance & Financial Engineering**
+* **Time-Series Modeling, Econometrics & Stochastic Processes**
+* **Deep Learning for Financial Markets**
+* **Distributed Data & ML Infrastructure**
+
+---
+
+## 🔬 Areas of Interest
+
+`Machine Learning` · `MLOps` · `ML Systems` · `Quantitative Research` · `Financial Machine Learning` · `Time Series` · `Model Monitoring` · `AutoML` · `Data Engineering` · `NLP` · `Computer Vision`
+
+---
+
+## 🧰 Languages & Tools
+
+### Programming
+
+`Python` · `C++` · `SQL` · `Bash` · `PowerShell`
+
+### Machine Learning
+
+`PyTorch` · `scikit-learn` · `XGBoost` · `Transformers` · `Pandas` · `NumPy`
+
+### MLOps & Infrastructure
+
+`MLflow` · `Docker` · `Kubernetes / K3s` · `MinIO` · `PostgreSQL` · `Redis` · `Airflow` · `Evidently`
+
+### Data & Analytics
+
+`SQL` · `Parquet` · `Jupyter` · `Excel` · `Data Pipelines` · `Time-Series Analysis`
+
+### Quantitative Finance
+
+`Econometrics` · `Portfolio & Risk Modeling` · `Derivative Pricing` · `Stochastic Modeling` · `Financial Time Series`
+
+---
+
+## 💼 Current Focus
+
+I'm particularly interested in building ML platforms where models are treated as **operational systems rather than isolated notebooks**.
+
+```text
+Data
+  ↓
+Experimentation
+  ↓
+Model Tracking
+  ↓
+Validation & Governance
+  ↓
+Deployment
+  ↓
+Monitoring
+  ↓
+Drift / Performance Detection
+  ↓
+Retraining
+  ↓
+Champion–Challenger Evaluation
+```
+
+Long term, I want to work on systems combining:
+
+**Machine Learning × Quantitative Finance × MLOps × High-Performance Computing**
+
+---
+
+## 🎓 Background
+
+* 🎓 **M.Sc. Financial Engineering — WorldQuant University**
+* 🎓 **B.Tech. Computer Engineering (Data Science) — Delhi Technological University**
+* 💼 **Data Scientist — Manufacturing / Industrial ML**
+* 🔬 Experience across **ML engineering, MLOps, predictive modeling, NLP, computer vision, and quantitative research**
+
+---
+
+## 📫 Connect With Me
+
+* 📧 [**nkuldiloke@gmail.com**](mailto:nkuldiloke@gmail.com)
+* 📝 [**Resume**](https://drive.google.com/drive/folders/1-HmcEEdsnxLHIv2ycChNwBuuJCJWfIwE?usp=sharing)
+
+---
+
+## ⚡ A Little About Me
+
+* 👨‍💻 Most people call me **Poom**
+* 📊 I enjoy problems where **software engineering, mathematics, and machine learning intersect**
+* 🧪 I care about whether a model survives **out-of-sample testing and production**, not just whether it looks good in a notebook
+* 🏗️ I enjoy building systems from the research layer all the way to deployment infrastructure
+
+---
+
+## 📊 GitHub Stats
+
+<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" height="165"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true"/>
+</p>
 
-<br />
+---
 
-## Languages and tools:
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-
-<br />
-
-## Github status:
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niitiwit" alt="niitiwit" /></a>
-
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=niitiwit&show_icons=true&locale=en" alt="niitiwit" />
-
-<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niitiwit&" alt="niitiwit" />
-
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niitiwit&show_icons=true&locale=en&layout=compact" alt="niitiwit" />
+> **Building machine-learning systems that move beyond experimentation and survive contact with production.**
